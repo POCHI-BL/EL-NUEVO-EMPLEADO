@@ -1,0 +1,121 @@
+{
+  "title": "EL NUEVO EMPLEADO",
+  "description": "Entra en escena Seunghyun, un virgen de veintitantos años. Una flor tardía, que finalmente consigue el puesto de trabajo de sus sueños. En su primer día de trabajo, se encuentra con el guapo pero frío Jongchan Kim. ¿Quién es él? El nuevo jefe de Seunghyun. ¿Serán capaces de mantener las manos alejadas el uno del otro en el trabajo?",
+  "artist": "Zec",
+  "author": "Monscareto",
+  "cover": "https://pbs.twimg.com/media/EJ9xEyPU0AAFe45.jpg",
+  "chapters": {
+    "0": {
+      "title": "Capitulo 0",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/YKdr9gR/"
+      },
+      "last_updated": "1616368746"
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/BmVw6PC/"
+      },
+      "last_updated": "1616368746"
+   },
+    "2": {
+      "title": "Capítulo 2",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Etg2JLF/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Capítulo 3",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/e73DP27/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Capítulo 4",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/0Bp5IDb/"
+      },
+      "last_updated": "1619043765"
+     },
+     "5": {
+      "title": "Capítulo 5",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/gbNIHjU/"
+      },
+      "last_updated": "1619043765"
+     },
+      "6": {
+      "title": "Capítulo 6",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Vknr2GM/"
+      },
+      "last_updated": "1619043765"
+     },
+         "7": {
+      "title": "Capítulo 7",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/PApfzqQ/"
+      },
+      "last_updated": "1619043765"
+     },
+         "8": {
+      "title": "Capítulo 8",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/QH51sDS/"
+      },
+      "last_updated": "1619043765"        
+     },
+         "9": {
+      "title": "Capítulo 9",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/RIUp8Ey/"
+      },
+      "last_updated": "1619043765"
+      },
+         "10": {
+      "title": "Capítulo 10",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/pZR7WP7/"
+      },
+      "last_updated": "1619043765"
+      },
+         "11": {
+      "title": "Capítulo 11",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/ilSWKe0/"
+      },
+      "last_updated": "1619043765"
+      },
+         "12": {
+      "title": "Capítulo 12",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/XYUdOR1/"
+      },
+      "last_updated": "1619043765"
+      },
+         "13": {
+      "title": "Capítulo 13",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/GDLPJ0C/"
+      },
+      "last_updated": "1619043765"        
+    }    
+  }
+}
